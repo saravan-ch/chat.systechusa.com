@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "filesystem": {
+            "command": "uv",
+            "args": [
+                "run",
+                "--directory", "C:\Users\example\projects\mcp-filesystem-python",
+                "src/filesystem/server.py",
+                "C:\Users\example\Documents"
+            ]
+        }
+    }
+}

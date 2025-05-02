@@ -1,0 +1,15 @@
+/* Hide the "Built with Chainlit" footer */
+.watermark {
+    display: none !important;
+}
+
+/* Hide the upload file button */
+#upload-button-input, 
+#upload-button {
+    display: none !important;
+}
+
+/* Hide the MCP Servers button completely */
+button:has(svg.lucide-plug) {
+    display: none !important;
+}

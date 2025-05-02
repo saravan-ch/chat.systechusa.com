@@ -1,0 +1,22 @@
+[project]
+name = "mcp-filesystem-python"
+version = "0.1.0"
+description = "MCP server for filesystem access"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mcp>=1.2.0",
+    "pathspec>=0.12.1",
+    "pydantic>=2.10.4",
+]
+
+[project.scripts]
+mcp-filesystem-python = "filesystem.server:main"
+
+[dependency-groups]
+dev = [
+    "mcp-filesystem-python",
+]
+
+[tool.uv.sources]
+mcp-filesystem-python = { workspace = true }

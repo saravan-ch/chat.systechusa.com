@@ -1,0 +1,80 @@
+2025-04-03 06:12:59,222 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-04-03 06:12:59,225 - filesystem_server - INFO - Starting filesystem server with root path: C:\\Users\\mcp_user\\OneDrive\\Documents\\Test
+2025-04-03 06:12:59,225 - filesystem_server - INFO - Version: 0.2.0 - With list-files and read-file support
+2025-04-03 06:12:59,225 - filesystem_server - INFO - Using default ignore patterns
+2025-04-03 06:12:59,230 - mcp.server.lowlevel.server - DEBUG - Initializing server 'filesystem'
+2025-04-03 06:12:59,230 - filesystem_server - INFO - Server initialized
+2025-04-03 06:12:59,230 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourcesRequest
+2025-04-03 06:12:59,230 - mcp.server.lowlevel.server - DEBUG - Registering handler for ReadResourceRequest
+2025-04-03 06:12:59,230 - mcp.server.lowlevel.server - DEBUG - Registering handler for PromptListRequest
+2025-04-03 06:12:59,230 - mcp.server.lowlevel.server - DEBUG - Registering handler for GetPromptRequest
+2025-04-03 06:12:59,230 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-04-03 06:12:59,230 - filesystem_server - INFO - Starting server event loop
+2025-04-03 06:12:59,237 - filesystem_server - INFO - Server started
+2025-04-03 06:19:57,585 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-04-03 06:19:57,587 - filesystem_server - INFO - Starting filesystem server with root path: C:\Users\mcp_user\OneDrive\Documents\Test
+2025-04-03 06:19:57,587 - filesystem_server - INFO - Version: 0.2.0 - With list-files and read-file support
+2025-04-03 06:19:57,588 - filesystem_server - INFO - Using default ignore patterns
+2025-04-03 06:19:57,591 - mcp.server.lowlevel.server - DEBUG - Initializing server 'filesystem'
+2025-04-03 06:19:57,591 - filesystem_server - INFO - Server initialized
+2025-04-03 06:19:57,591 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourcesRequest
+2025-04-03 06:19:57,591 - mcp.server.lowlevel.server - DEBUG - Registering handler for ReadResourceRequest
+2025-04-03 06:19:57,591 - mcp.server.lowlevel.server - DEBUG - Registering handler for PromptListRequest
+2025-04-03 06:19:57,591 - mcp.server.lowlevel.server - DEBUG - Registering handler for GetPromptRequest
+2025-04-03 06:19:57,592 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-04-03 06:19:57,592 - filesystem_server - INFO - Starting server event loop
+2025-04-03 06:19:57,600 - filesystem_server - INFO - Server started
+2025-04-03 06:19:57,600 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-04-03 06:19:57,603 - filesystem_server - INFO - Starting filesystem server with root path: C:\Users\mcp_user\OneDrive\Documents\Test
+2025-04-03 06:19:57,603 - filesystem_server - INFO - Version: 0.2.0 - With list-files and read-file support
+2025-04-03 06:19:57,604 - filesystem_server - INFO - Using default ignore patterns
+2025-04-03 06:19:57,608 - mcp.server.lowlevel.server - DEBUG - Initializing server 'filesystem'
+2025-04-03 06:19:57,609 - filesystem_server - INFO - Server initialized
+2025-04-03 06:19:57,609 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourcesRequest
+2025-04-03 06:19:57,610 - mcp.server.lowlevel.server - DEBUG - Registering handler for ReadResourceRequest
+2025-04-03 06:19:57,610 - mcp.server.lowlevel.server - DEBUG - Registering handler for PromptListRequest
+2025-04-03 06:19:57,610 - mcp.server.lowlevel.server - DEBUG - Registering handler for GetPromptRequest
+2025-04-03 06:19:57,612 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-04-03 06:19:57,613 - filesystem_server - INFO - Starting server event loop
+2025-04-03 06:19:57,617 - mcp.server.lowlevel.server - DEBUG - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-04-03 06:19:57,618 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x000002B9E43C7380>
+2025-04-03 06:19:57,618 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-04-03 06:19:57,619 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-04-03 06:19:57,624 - filesystem_server - INFO - Server started
+2025-04-03 06:19:57,631 - mcp.server.lowlevel.server - DEBUG - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-04-03 06:19:57,632 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x000001D9C34990A0>
+2025-04-03 06:19:57,632 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-04-03 06:19:57,632 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-04-03 06:21:22,829 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-04-03 06:21:22,830 - filesystem_server - INFO - Starting filesystem server with root path: C:\\Users\\mcp_user\\OneDrive\\Documents\\Test
+2025-04-03 06:21:22,830 - filesystem_server - INFO - Version: 0.2.0 - With list-files and read-file support
+2025-04-03 06:21:22,830 - filesystem_server - INFO - Using default ignore patterns
+2025-04-03 06:21:22,833 - mcp.server.lowlevel.server - DEBUG - Initializing server 'filesystem'
+2025-04-03 06:21:22,834 - filesystem_server - INFO - Server initialized
+2025-04-03 06:21:22,834 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourcesRequest
+2025-04-03 06:21:22,834 - mcp.server.lowlevel.server - DEBUG - Registering handler for ReadResourceRequest
+2025-04-03 06:21:22,834 - mcp.server.lowlevel.server - DEBUG - Registering handler for PromptListRequest
+2025-04-03 06:21:22,834 - mcp.server.lowlevel.server - DEBUG - Registering handler for GetPromptRequest
+2025-04-03 06:21:22,834 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-04-03 06:21:22,834 - filesystem_server - INFO - Starting server event loop
+2025-04-03 06:21:22,840 - filesystem_server - INFO - Server started
+2025-04-03 06:21:22,845 - mcp.server.lowlevel.server - DEBUG - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-04-03 06:21:22,846 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x000002371C6E9CD0>
+2025-04-03 06:21:22,846 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-04-03 06:21:22,846 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-04-03 06:21:22,884 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x000002371C72C1D0>
+2025-04-03 06:21:22,885 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-04-03 06:21:22,885 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-04-03 06:21:55,644 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-04-03 06:21:55,660 - filesystem_server - INFO - Starting filesystem server with root path: C:\\Users\\mcp_user\\OneDrive\\Documents\\Test
+2025-04-03 06:21:55,660 - filesystem_server - INFO - Version: 0.2.0 - With list-files and read-file support
+2025-04-03 06:21:55,660 - filesystem_server - INFO - Using default ignore patterns
+2025-04-03 06:21:55,660 - mcp.server.lowlevel.server - DEBUG - Initializing server 'filesystem'
+2025-04-03 06:21:55,660 - filesystem_server - INFO - Server initialized
+2025-04-03 06:21:55,660 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourcesRequest
+2025-04-03 06:21:55,660 - mcp.server.lowlevel.server - DEBUG - Registering handler for ReadResourceRequest
+2025-04-03 06:21:55,660 - mcp.server.lowlevel.server - DEBUG - Registering handler for PromptListRequest
+2025-04-03 06:21:55,660 - mcp.server.lowlevel.server - DEBUG - Registering handler for GetPromptRequest
+2025-04-03 06:21:55,660 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-04-03 06:21:55,660 - filesystem_server - INFO - Starting server event loop
+2025-04-03 06:21:55,660 - filesystem_server - INFO - Server started
